@@ -1,8 +1,13 @@
 ---
 layout: post
 title:  "첫 블로그"
-date:   2022-06-19 12:06:00 +0900
+excerpt: 첫 블로그 작성에 임하는 마음가짐. 그 동안의 게을렀던 자신을 돌아보는 계기가 되었으면 좋겠다.
+date:   2022-06-19 12:06
 categories: 일상
+tags: 일상
+toc: true
+toc_sticky: true
+last_modified_at: 2022-06-19 22:25
 ---
 태어나서 처음으로 블로그를 작성해 본다.  
 

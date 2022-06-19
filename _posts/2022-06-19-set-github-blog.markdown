@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "깃허브를 이용해 블로그 시작하기"
-date:   2022-06-19 14:11:21 +0900
+date:   2022-06-19 14:11
 categories: 개발
+tags: [blog,git,github,ruby,jekyll]
+toc: true,
+toc_sticky: true,
+last_modified_at: 2022-06-19 22:28
 ---
 블로그를 시작해야겠다고 결심하고 플랫폼을 찾던 중 눈에 띈 것이 바로 깃허브였다.  
 
